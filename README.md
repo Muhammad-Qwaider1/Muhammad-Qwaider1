@@ -1,32 +1,75 @@
-# Hi there, I'm Muhammad Qwaider! 👋
-### 🚀 Software Engineering Student | Front-End Developer
+<div align="center">
+  
+  <h1>Muhammad Qwaider</h1>
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Building+Scalable+Web+Applications" />
+  
+  <p><strong>Turning ideas into production-ready, scalable, and intelligent web solutions.</strong></p>
+</div>
 
-Welcome to my GitHub profile! I am a passionate software engineer currently focused on building responsive, high-performance web applications and exploring the power of AI automation. 
+---
 
-### 💡 About Me
-- 🎓 Studying Software Engineering at **Damascus University** (Faculty of IT).
-- 💻 Specializing in **Front-End Development** with a deep focus on crafting modern UI components.
-- 🤖 Exploring the intersection of web development and **AI/Prompt Engineering** to build smart, automated solutions.
-- 🤝 Proudly volunteering as a Front-End Developer with the **SharafAi** initiative.
-- 🎨 Constantly learning and expanding my skill set, including exploring **Graphic Design** and UI/UX principles.
+## 👨‍💻 About Me
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/sql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+I'm a **Software Engineering** student at **Damascus University** with a strong passion for full-stack development. I specialize in building modern web applications that are both beautiful and highly scalable using clean architecture and best practices.
+
+My goal is to create software that is **simple, maintainable, and impactful**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css" />
 </p>
 
-### ⚡ Current Projects & Focus
-- Developing web-based interview queuing systems and student path-guidance platforms.
-- Building interactive local chatbots to automate system commands and estimate software project costs.
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+</p>
 
-### 📫 Let's Connect!
-- Feel free to reach out to me at: **muhammad.qwaider1@gmail.com**
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,express" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,linux,vscode" />
+</p>
+
+---
+
+## 🚀 Currently Learning & Exploring
+
+- Advanced React & Next.js Patterns
+- System Design & Software Architecture
+- AI Integration & Prompt Engineering
+- Docker
+- Performance Optimization
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Qwaider1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Qwaider1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Muhammad-Qwaider1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- **Email**: [muhammad.qwaider1@gmail.com](mailto:muhammad.qwaider1@gmail.com)
+
+---
+
+<div align="center">
+  <i>"Clean code, thoughtful design, and continuous growth."</i>
+</div>
