@@ -21,7 +21,7 @@ My goal is to create software that is **simple, maintainable, and impactful**.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,html,css" />
 </p>
 
 ### Frontend
