@@ -54,12 +54,12 @@ My goal is to create software that is **simple, maintainable, and impactful**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Qwaider1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Qwaider1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Muhammad-Qwaider1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Qwaider1&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Muhammad-Qwaider1&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Qwaider1&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 ---
