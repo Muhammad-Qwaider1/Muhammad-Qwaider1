@@ -54,8 +54,12 @@ My goal is to create software that is **simple, maintainable, and impactful**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Muhammad-Qwaider1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Qwaider1&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="165" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="center">
